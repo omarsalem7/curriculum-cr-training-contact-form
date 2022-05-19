@@ -1,72 +1,57 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# My Portfolio Project
 
-> Description the project.
+> This website to show all my projects, and it is my gallary to show my projects.
+
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
+- Major languages 
+  ```bash
+  - (HTML, CSS, JavaScript)
+  ```
+  
+  - Technologies/ Tools used 
+  
+  ``` bash
+  - Git(version control)
+  - LocalStorage
+  - Linters
+  ```
 
 
 ## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
-
-### Setup
+ - A text editor(preferably Visual Studio Code)
 
 ### Install
-
+  -  [Git](https://git-scm.com/downloads)
+ 
 ### Usage
+#### Clone this repository
 
-### Run tests
+```bash
+$ git clone https://github.com/omarsalem7/Portfolio.git
+$ cd Portfolio 
+```
+#### Run project
 
-### Deployment
-
+```bash
+- Open index.html in browser
+```
 
 
 ## Authors
 
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
 
 ## Show your support
 
 Give a ⭐️ if you like this project!
 
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
 
 ## 📝 License
 
